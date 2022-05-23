@@ -40,6 +40,6 @@
 ### 🤝 &nbsp;Connect Me
 
 <p align="center">
-<a href="https://linkedin.com/in/abdullahShaqat"><img src="https://img.shields.io/badge/-@Abdullah-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abdullahShafqat1044@gmail.com"><img src="https://img.shields.io/badge/-Abdullah@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abdullahShaqat"><img src="https://img.shields.io/badge/-@AbdullahShafqat-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:abdullahShafqat1044@gmail.com"><img src="https://img.shields.io/badge/-AbdullahShafqat@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
