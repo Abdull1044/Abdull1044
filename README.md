@@ -35,25 +35,6 @@ Enthusiastic Full Stack Developer with 3+ years of practical experience in Progr
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdull1044&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Abdullah's GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdull1044&theme=tokyonight&hide_border=true&background=0D1117" alt="Abdullah's GitHub streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdull1044&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Abdullah's top languages" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abdull1044&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
-
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
