@@ -1,14 +1,16 @@
-# Abdullah Shafqat
+<h1 align="center">Hi 👋, I'm Abdullah Shafqat</h1>
+<h3 align="center">Enthusiastic Full Stack Developer with 3+ years of practical experience in Progressive Web App Development, React, Angular, Node, JavaScript, TypeScript and Java</h3>
 
-## 👋 &nbsp;Hey there! I'm Abdullah. Enthusiastic Full Stack Developer with 3+ years of practical experiance in Progressive Web App Development, React, Angular, Node, JavaScript, TypeScript and Java.
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Abdull1044&label=Profile%20views&color=0A66C2&style=flat" alt="Abdull1044" />
+</p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I've done Bachlors of Science in Software Engineering at COMSATS University Islamabad, Lahore Campus, Pakistan.\
+🎓 &nbsp;I've done a Bachelor of Science in Software Engineering at COMSATS University Islamabad, Lahore Campus, Pakistan.\
 🌱 &nbsp;I'm on track for learning more about Blockchain, Cloud Architecture and DevOps.\
-✍️ &nbsp;In my free time, I pursue Video Games as hobby/side hustles.\
+✍️ &nbsp;In my free time, I pursue Video Games as a hobby/side hustle.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at abdullahshafqat1044@gmail.com! I'll try to respond as soon as I can.<!-- \
 📄 &nbsp;Please have a look at my [Résumé](https://www.abdull1044.com/) for more details about me. I'm open to feedback and suggestions! -->
@@ -36,6 +38,17 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+### 📊 &nbsp;GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdull1044&show_icons=true&theme=dark&hide_border=true&bg_color=05122A" alt="Abdullah's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdull1044&theme=dark&hide_border=true&background=05122A" alt="Abdullah's GitHub streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdull1044&layout=compact&theme=dark&hide_border=true&bg_color=05122A" alt="Abdullah's top languages" />
+</p>
 
 ### 🤝 &nbsp;Connect Me
 
